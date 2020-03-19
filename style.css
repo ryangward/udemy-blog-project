@@ -1,0 +1,36 @@
+body {
+	border: solid 30px #bdc3c7;
+	width: 50%;
+	margin: 20px auto;
+	max-width: 700px;
+	padding: 0px;
+
+}
+p {
+	padding: 3px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 50;
+
+}
+.post {
+	padding: 0;
+	border-bottom: solid 2px black;
+	margin: 30px;
+	height: 30%;
+
+}
+.title {
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 100px;
+}
+.date {
+	text-transform: uppercase;
+	color: rgba(0, 99, 123, 1);
+	font-family: 'Baloo Da 2', cursive;
+	letter-spacing: 0.2rem;
+
+}
+.first-section {
+	border-left: solid 9px #bdc3c7;
+}
